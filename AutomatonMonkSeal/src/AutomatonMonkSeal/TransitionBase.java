@@ -28,14 +28,28 @@ public class TransitionBase {
       this.endState = endState;
     }
 
+    /**
+     * Getter method for the evtName attribute of the TransitionBase
+     * @return String The name identificative for the event that provoques the 
+     * transition.
+     */
     public String getEventName(){
       return this.evtName;
     }    
     
+    /**
+     * Getter method for the startState attribute of the TransitionBase
+     * @return String The name that identify the state that the transition 
+     * comes from.
+     */
     public String getStartState(){
       return this.startState;
     }    
     
+    /**
+     * Getter method for the endState attribute of the TransitionBase
+     * @return The name that identifies the state that the transition goes to.
+     */
     public String getEndState(){
       return this.endState;
     }

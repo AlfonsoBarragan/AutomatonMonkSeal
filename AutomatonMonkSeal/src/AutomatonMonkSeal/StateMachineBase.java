@@ -64,6 +64,10 @@ public class StateMachineBase {
         this.name = name;
     }
     
+    /**
+     * This is a setter method for the lastState attribute of the machine.
+     * @param lastState The name of the last state visited.
+     */
     public void setLastState(String lastState){
         this.lastState = lastState;
     }
