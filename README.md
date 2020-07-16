@@ -100,7 +100,7 @@ import AutomatonMonkSeal.TransitionBase;
     smb.addEvent("go to rec");
 ```
 
-### Full example [file]() to test
+### Full example [file](/resources/examples/DummyProjectAutomaton.java) to test
 
 ```java
         Runnable entr_state_sol = () -> {
