@@ -2,6 +2,13 @@
     <img src="resources/AutomatonMonkSealLogo.png">
 </h1>
 
+![Last release](https://img.shields.io/badge/Last%20release-MooreSea-5960b0)
+[![Package status](https://img.shields.io/badge/Package%20status-up%20to%20date!-blue)](https://pypi.org/project/pandas/)
+![Package version](https://img.shields.io/badge/pypi-v1.0.0-brightgreen)
+![Last commit](https://img.shields.io/github/last-commit/AlfonsoBarragan/Techdeck)
+![Coverage](https://img.shields.io/badge/Coverage-0%25-red)
+[![License](https://img.shields.io/badge/License-GPL-brightgreen)](https://github.com/pandas-dev/pandas/blob/master/LICENSE)
+
 A simple automaton implementation library to the Java language.
 
 * Model diverse kind of automatons with ihneriting the base State Machine implementation
