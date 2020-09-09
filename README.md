@@ -21,7 +21,7 @@ None :D!
 
 # Install process
 
-We proporcionate this library in a **JAR file** so you just need to import it on your project. you should download the **last release** in the repository to obtain the **AutomatonMonkSeal.jar** first, then:
+We proporcionate this library in a **JAR file** or **AAR package** so you just need to choose what its better for your project and import it. you should download the **last release** in the repository to obtain the **AutomatonMonkSeal.jar** first, then:
 
 If you use **Netbeans** in example, you should:
 * In the **Projects tab**, expand the project which you want to include _AutomatonMonkSeal_
@@ -29,7 +29,7 @@ If you use **Netbeans** in example, you should:
 * Finally select the **JAR file** downloaded previously
 
 If you use **Android Studio**, you should:
-*  In Android Studio go to **File** >> **Project Structure**
+* In Android Studio go to **File** >> **Project Structure**
 * Then click on the **+** icon, next selects **Import .JAR/.AAR Package**
 * Finally in your **build.gradle (at module level)** add the line **implementation project(':AutomatonMonkSeal')** to the dependencies
 
